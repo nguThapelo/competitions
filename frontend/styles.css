@@ -1,0 +1,17 @@
+.container {
+  max-width: 1200px;
+}
+
+.category-btn {
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+
+.category-btn.active {
+  background-color: #0d6efd;
+  color: white;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: #f8f9fa;
+}
