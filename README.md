@@ -23,3 +23,6 @@ This is a web app to display and manage competitions, upgraded with Node.js 20 b
 
 ### Run Backend Locally
 
+#### Travis
+[![Build Status](https://app.travis-ci.com/nguThapelo/competitions.svg?token=u181h9zra4pJQPTUCHxw&branch=main)](https://app.travis-ci.com/nguThapelo/competitions)
+
